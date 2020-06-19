@@ -1,0 +1,15 @@
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.exe
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.csprojAssemblyReference.cache
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.AssemblyInfoInputs.cache
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.AssemblyInfo.cs
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.deps.json
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.runtimeconfig.json
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.runtimeconfig.dev.json
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.dll
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\HelloPostgres.pdb
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.csproj.CoreCompileInputs.cache
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.csproj.CopyComplete
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.dll
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.pdb
+C:\Users\Fiach.000\source\repos\HelloPostgres\HelloPostgres\obj\Debug\netcoreapp3.1\HelloPostgres.genruntimeconfig.cache
